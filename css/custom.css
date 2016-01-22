@@ -1,0 +1,14 @@
+dt {
+    float: left;
+    clear: left;
+    font-weight: bold;
+    width: 140px;
+    text-align: right;
+}
+dt:after {
+    content: ":";
+}
+dd {
+    margin: 0 0 0 150px;
+    padding: 0 0 0.5em 0;
+}
